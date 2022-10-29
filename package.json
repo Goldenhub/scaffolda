@@ -1,0 +1,25 @@
+{
+  "name": "scaffolda",
+  "version": "1.0.0",
+  "description": "a cli to scaffold web development folder structure",
+  "main": "index.mjs",
+  "bin": {
+    "scaffolda": "index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "scaffold",
+    "nodejs",
+    "rig"
+  ],
+  "author": "Golden",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1"
+  },
+  "devDependencies": {}
+}
