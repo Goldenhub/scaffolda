@@ -1,6 +1,6 @@
 {
   "name": "scaffold-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a cli to scaffold web development folder structure",
   "main": "index.mjs",
   "bin": {
