@@ -1,4 +1,4 @@
-# SCAFFOLDA - app scaffold cli
+# SCAFFOLD-APP - app scaffold cli
 
 ## Description
 
@@ -7,16 +7,16 @@ This is a cli tool for scaffolding a new app.
 ## Usage
 
 ```bash
-npm install -g scaffolda
-scaffolda
+npm install -g scaffold-app
+scaffold-app create <option> <APPNAME>
 ```
 
 ## Options
 
 ```bash
-$ scaffolda --help
+$ scaffold-app --help
 
-  Usage: scaffolda <command> [options] <APP NAME>
+  Usage: scaffold-app <command> [options] <APP NAME>
 
   Options:
 
