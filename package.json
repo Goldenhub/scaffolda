@@ -1,7 +1,8 @@
 {
   "name": "scaffold-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a cli to scaffold web development folder structure",
+  "repository": "Goldenhub/scaffolda",
   "main": "index.mjs",
   "bin": {
     "scaffold-app": "index.mjs"

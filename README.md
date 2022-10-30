@@ -1,5 +1,7 @@
 # SCAFFOLD-APP - app scaffold cli
 
+[GITHUB](https://github.com/Goldenhub/scaffolda)
+
 ## Description
 
 This is a cli tool for scaffolding a new app.
@@ -23,9 +25,12 @@ $ scaffold-app --help
     -V, --version  output the version number
     -h, --help     output usage information
     --web          create a basic web application directory structure
+    --bootstrap    adds the latest bootstrap cdn to the index file (--web option must be present)
+    --test         scaffolds with a test/app.spec.js file (--web option must be present)
   
   Commands:
       create [options] <APP NAME>  scaffold a new app
+      
 
 ```
 
