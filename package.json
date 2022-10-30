@@ -1,8 +1,9 @@
 {
   "name": "scaffold-app",
   "version": "1.0.2",
-  "description": "a cli to scaffold web development folder structure",
+  "description": "A cli to scaffold web development folder structure",
   "repository": "Goldenhub/scaffolda",
+  "homepage": "https://github.com/Goldenhub/scaffolda#readme",
   "main": "index.mjs",
   "bin": {
     "scaffold-app": "index.mjs"
@@ -16,7 +17,7 @@
     "nodejs",
     "rig"
   ],
-  "author": "Golden",
+  "author": "Golden <goldenazubuike@gmail.com> (https://linkedin.com/in/goldenazubuike/)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.1.2",
