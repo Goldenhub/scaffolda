@@ -72,7 +72,7 @@ program
             
             mkdir(`./${str}`)
                 .then(res => {
-                    writeFile(new URL(`./${str}/index.html`, import.meta.url), '', { signal })
+                    writeFile(`./${str}/index.html`, '', { signal })
                     .then(res => {
                         readFile(new URL('template.html', import.meta.url), { encoding: 'utf-8' })
                             .then(response => {
